@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+
+# Very large outputs from Sound2 (39 MB and 155 MB); regenerate by running the script
+Exercise2files/Sound2_Enc_K2.ex2
+Exercise2files/Sound2_Enc_K4.ex2
